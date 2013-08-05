@@ -1,0 +1,4 @@
+Leap Motion SDK
+PyObjC
+Python 2.7
+
